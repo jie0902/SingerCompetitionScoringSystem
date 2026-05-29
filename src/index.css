@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+.ant-layout-sider .ant-menu-dark {
+  background: transparent !important;
+}
+
+.score-input {
+  width: 100%;
+}
+
+.score-input .ant-input-number-input {
+  padding: 0 4px;
+  text-align: center;
+}
+
+.avg-highlight {
+  color: #5b3cc4;
+  font-weight: bold;
+  font-size: 16px;
+}
